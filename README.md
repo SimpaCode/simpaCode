@@ -7,7 +7,15 @@ Seeking to explore and contribute my knowledge further in a dynamic environment 
 
 ## Languages and tools
 
-<img src="tool.png" width="80%">
+<img src="tools.png" width="100%">
+
+## Connect with me 
+
+I'm open to contributing my skills in collaborative projects.
+
+- [Twitter](https://twitter.com/simpadnan) 
+- [Mail](suleimanmusa4477@gmail.com)
+
 
 
 
